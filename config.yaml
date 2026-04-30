@@ -14,5 +14,5 @@ mlflow:
   tracking_uri: file:///mlruns
 
 thresholds:
-  max_rmse: 50000
-  min_r2: 0.70
+  max_rmse: 35000
+  min_r2: 0.80
